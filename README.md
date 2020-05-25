@@ -85,4 +85,4 @@ All parts of this project are free to use and abuse under the open-source MIT li
 
 Project Owner: [Kevin Pham](https://github.com/phamkevinT)
 
-Stakeholder: [Nhat Nguyen](https://github.com/nguyen-nhat)
+Stakeholder: [Nhat Nguyen](https://github.com/nguyen-nattwasm)
