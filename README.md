@@ -1,4 +1,4 @@
-[![NPath](https://i.imgur.com/dHi7eOP.png)](https://npath.io)
+[![NPath](https://i.imgur.com/nKE9ENN.png)](https://npath.io)
 
 # cloudrun-demo &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/npathhq/cloudrun-demo/pulls)
 
