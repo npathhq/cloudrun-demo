@@ -1,4 +1,4 @@
-[![NPath](https://raw.githubusercontent.com/npathhq/design/master/banner/npath-banner-github.png)](https://npath.io)
+[![NPath](https://i.imgur.com/NMepK5Y.png)](https://npath.io)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/npathhq/cloudrun-demo/pulls)
 
