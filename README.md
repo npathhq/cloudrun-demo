@@ -1,6 +1,6 @@
 [![NPath](https://i.imgur.com/dHi7eOP.png)](https://npath.io)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/npathhq/cloudrun-demo/pulls)
+# cloudrun-demo &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/npathhq/cloudrun-demo/pulls)
 
 `cloudrun-demo` is a showcase usage of deploying a production-level Node application container to Google Cloud Run.
 
