@@ -65,7 +65,7 @@ npm start
 
 ### Running with Docker
 
-**~ Work In Progress ~**
+~ **Work In Progress** ~
 
 ```bash
 # installing the project
