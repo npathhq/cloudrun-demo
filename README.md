@@ -4,7 +4,7 @@
 
 `cloudrun-demo` is a showcase usage of deploying a production-level Node application container to Google Cloud Run.
 
-[Google Cloud Run](https://cloud.google.com/run) is the latest in cloud technolgy as it combines serverless and containerized architecture. Developers can have the low upkeep of serverless while build programs that are containerized in Docker.
+[Google Cloud Run](https://cloud.google.com/run) is the latest in cloud technolgy as it combines serverless and containerized architecture. Developers can have the low upkeep of serverless while building programs that are containerized in Docker.
 
 
 ## 📖 Table of Contents
