@@ -9,6 +9,7 @@
 
 * [💡 Goals](#-goals)
 * [🚀 Getting Started](#-getting-started)
+  * [Cloning the project](#cloning-the-project)
   * [Running with Node](#running-with-node)
   * [Running with Docker](#running-with-docker)
 * [📄 License](#-license)
@@ -39,14 +40,38 @@ This project helps NPath's core backend team.
 
 ## 🚀 Getting Started
 
+### Cloning the project
+
+```bash
+# clone project
+git clone https://github.com/npathhq/cloudrun-demo.git
+
+# navigate to project
+cd cloudrun-demo
+```
+
 ### Running with Node
 
-**WIP**
+```bash
+# installing the project
+npm install
+
+# running the project
+npm start
+```
 
 
 ### Running with Docker
 
 **WIP**
+
+```bash
+# installing the project
+npm install
+
+# Tutorial link: https://nodejs.org/fr/docs/guides/nodejs-docker-webapp/
+docker build -t <your username>/node-web-app .
+```
 
 
 ## 📄 License
